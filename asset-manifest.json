@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/kakaotalk/static/css/main.ea11c405.chunk.css",
-    "main.js": "/kakaotalk/static/js/main.428dbd17.chunk.js",
-    "main.js.map": "/kakaotalk/static/js/main.428dbd17.chunk.js.map",
+    "main.js": "/kakaotalk/static/js/main.af03e74a.chunk.js",
+    "main.js.map": "/kakaotalk/static/js/main.af03e74a.chunk.js.map",
     "runtime-main.js": "/kakaotalk/static/js/runtime-main.0b2e4a77.js",
     "runtime-main.js.map": "/kakaotalk/static/js/runtime-main.0b2e4a77.js.map",
-    "static/js/2.4671e468.chunk.js": "/kakaotalk/static/js/2.4671e468.chunk.js",
-    "static/js/2.4671e468.chunk.js.map": "/kakaotalk/static/js/2.4671e468.chunk.js.map",
+    "static/js/2.f4729d6a.chunk.js": "/kakaotalk/static/js/2.f4729d6a.chunk.js",
+    "static/js/2.f4729d6a.chunk.js.map": "/kakaotalk/static/js/2.f4729d6a.chunk.js.map",
     "index.html": "/kakaotalk/index.html",
     "static/css/main.ea11c405.chunk.css.map": "/kakaotalk/static/css/main.ea11c405.chunk.css.map",
-    "static/js/2.4671e468.chunk.js.LICENSE.txt": "/kakaotalk/static/js/2.4671e468.chunk.js.LICENSE.txt"
+    "static/js/2.f4729d6a.chunk.js.LICENSE.txt": "/kakaotalk/static/js/2.f4729d6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b2e4a77.js",
-    "static/js/2.4671e468.chunk.js",
+    "static/js/2.f4729d6a.chunk.js",
     "static/css/main.ea11c405.chunk.css",
-    "static/js/main.428dbd17.chunk.js"
+    "static/js/main.af03e74a.chunk.js"
   ]
 }
