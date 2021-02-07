@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kakaotalk/static/css/main.ea11c405.chunk.css",
-    "main.js": "/kakaotalk/static/js/main.3157d00e.chunk.js",
-    "main.js.map": "/kakaotalk/static/js/main.3157d00e.chunk.js.map",
+    "main.js": "/kakaotalk/static/js/main.14cf1db8.chunk.js",
+    "main.js.map": "/kakaotalk/static/js/main.14cf1db8.chunk.js.map",
     "runtime-main.js": "/kakaotalk/static/js/runtime-main.0b2e4a77.js",
     "runtime-main.js.map": "/kakaotalk/static/js/runtime-main.0b2e4a77.js.map",
     "static/js/2.f4729d6a.chunk.js": "/kakaotalk/static/js/2.f4729d6a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0b2e4a77.js",
     "static/js/2.f4729d6a.chunk.js",
     "static/css/main.ea11c405.chunk.css",
-    "static/js/main.3157d00e.chunk.js"
+    "static/js/main.14cf1db8.chunk.js"
   ]
 }
