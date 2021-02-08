@@ -1,0 +1,10 @@
+npx create-react-app kakaotalk
+npm install --save-dev react-app-rewired
+npm install --save-dev @babel/plugin-proposal-decorators
+npm install --save-dev customize-cra
+npm install mobx@5.15.0
+npm install mobx-react@6.1.4
+npm install formik
+npm install yup
+npm install react-router-dom
+npm install react-cookie
