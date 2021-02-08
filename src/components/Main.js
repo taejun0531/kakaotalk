@@ -21,7 +21,7 @@ class Main extends React.Component{
     if(minutes < 10) minutes = "0" + minutes;
 
     // 현재 시간을 계속 출력 해줄 수 있도록 변경하기.
-    return <HashRouter>
+    return <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="main__wrap">
         <div className="status-bar">
           <div className="status-bar__column">
@@ -66,7 +66,7 @@ class Main extends React.Component{
           </ul>
         </footer>
       </div>
-    </HashRouter>
+    </BrowserRouter>
   }
 }
 
