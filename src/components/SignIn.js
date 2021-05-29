@@ -6,6 +6,7 @@ import '../css/SignIn.css';
 
 class SignIn extends React.Component{
   render(){
+    console.log("비밀번호 : 영문/숫자 포함 8~15자를 입력해 주세요.");
     const today = new Date();
     const hours = today.getHours();
     const minutes = today.getMinutes();
