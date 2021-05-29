@@ -1,0 +1,88 @@
+.Friends{
+  height: calc(100% - 83px);
+  background-color: #fcfcfe;
+}
+.friends-screen {
+  margin-top: 10px;
+  padding: 0 25px;
+}
+
+
+.Chats{
+  height: calc(100% - 83px);
+  background-color: #fcfcfe;
+}
+.chats-screen{
+  padding: 0 25px;
+}
+
+.chat-screen{
+  height: calc(100% - 26px);
+  background-color: #abc1d1;
+}
+.main-screen{
+  padding: 0 25px;
+}
+.main-chat{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.chat__timestamp {
+  margin-bottom: 25px;
+  padding: 15px;
+  font-size: 14px;
+  color: white;
+  background-color: #92a4b2;
+  border-radius: 25px;
+}
+.message-row {
+  width: 100%;
+}
+.message-row-per{
+  display: flex;
+  margin-bottom: 20px;
+}
+.message-row-per img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.message__author {
+  margin-bottom: 5px;
+  font-size: 15px;
+  display: block;
+}
+.message__info {
+  display: flex;
+  align-items: flex-end;
+}
+.message__bubble {
+  margin-right: 5px;
+  padding: 13px;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 15px;
+  border-top-left-radius: 0px;
+}
+.message__time{
+  opacity: 0.8;
+  font-size: 14px;
+}
+
+
+.Setting{
+  height: calc(100% - 83px);
+  background-color: #fcfcfe;
+}
+.setting-screen{
+  padding: 0 25px;
+}
+.setting-user-img{
+  margin-right: 20px;
+  width: 66px;
+  height: 66px;
+  border-radius: 23px;
+  object-fit: cover;
+}
